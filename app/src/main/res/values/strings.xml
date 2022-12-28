@@ -1,0 +1,83 @@
+<resources>
+    <string name="app_name">Reader\'s diary</string>
+    <string name="book_title_hint">Enter a title of the book</string>
+    <string name="book_title_label">Title</string>
+    <string name="book_author_hint">Author</string>
+    <string name="book_time_before">started reading</string>
+    <string name="book_time_after">finished reading</string>
+    <string name="book_finish">finished reading</string>
+    <string name="book_now">read</string>
+    <string name="book_will">will read</string>
+    <string name="book_status">Status:</string>
+    <string name="book_pagers">Number of pages:</string>
+    <string name="crime_details_label">Details</string>
+    <string-array name="book_genre">
+        <item>comedy</item>
+        <item>adventures</item>
+        <item>history</item>
+        <item>detective story</item>
+        <item>fantastic</item>
+        <item>religion</item>
+        <item>health</item>
+        <item>love story</item>
+        <item>drama</item>
+        <item>thriller</item>
+        <item>action movie</item>
+        <item>science literature</item>
+        <item>biography(memoirs)</item>
+    </string-array>
+    <string name="no_name">Without name </string>
+    <string name="book_summary">Summary of the book:</string>
+    <string name="book_note">Note</string>
+    <string name="no_author">unknown</string>
+    <string name="book_delete">Delete</string>
+    <string name="report_text">Send report</string>
+    <string name="reportWithoutName">I %1$s book. Author: %2$s.Number of pages: %3$s. %4$s and I give mark to this book - %5$s out of 5.</string>
+    <string name="report">I %1$s book \"%2$s\". Author: %3$s.Number of pages: %4$s. %5$s and I give mark to this book - %6$s out of 5.</string>
+    <string name="report_subject">Report about the book</string>
+    <string name="send_report">Send report about the book</string>
+    <string name="show_subtitle">Show number of books</string>
+    <string name="hide_subtitle">Hide number of books</string>
+    <string name="new_book">New book</string>
+    <string name="no_authorName">Without author</string>
+    <string name="subtitle_format1">%1$d books</string>
+    <string name="subtitle_format2">%1$d book</string>
+    <string name="no_book">The list is empty</string>
+    <string name="close">Close windows</string>
+    <string name="information">This application is able to remember all the works that you have read, are reading or are going to read in the near future.
+To do this, click + on the toolbar. Next, you will see a page where you can enter information about
+the work (title, author, number of pages, etc.). Then, when you have finished entering information about it, click on
+click the arrow in the upper-left corner of the toolbar. This will take you to the main page where the list is located
+all the works you added. You can sort this list or view statistics for your list of works.
+To do this, click the button on the toolbar.
+You can move the list items yourself. To do this, hold your finger on one of them and lead to the desired location. You can also delete a list item
+- just swipe the item either to the right or to the left. There is a possibility to scroll the elements by swiping up or down. And if you are
+on the page of a particular work, in order to come to another work of the list, you can not go to the main page,
+just swipe right or left. This will activate the ViewPager.</string>
+    <string name="data_picker_title">Choose the date</string>
+    <string name="OK">OK</string>
+    <string name="message">Information about this application</string>
+    <string name= "sort_data">read start date</string>
+    <string name="sort_dataFinish">read end date</string>
+    <string name= "sort_title">name</string>
+    <string name= "statistics_ic">show statistics</string>
+    <string name= "sort_author">author</string>
+    <string name= "sort_pages">number of pages</string>
+    <string name= "sort_rating">rating</string>
+    <string name= "sort_genre">genre</string>
+    <string name= "sort_status">status</string>
+    <string name="sort">Sort the list of works by:</string>
+    <string name= "show_info">app information</string>
+    <string name= "list_sort">sort the list</string>
+    <string name="statistics">Statistics:</string>
+    <string name="stat1">Number of products: </string>
+    <string name= "stat2">Number of works read: </string>
+    <string name="stat3">Number of works to read: </string>
+    <string name= "stat4">Number of works will be read: </string>
+    <string name="stat5">Most popular author: </string>
+    <string name= "stat6">Number of pages read: </string>
+    <string name="stat7">Maximum number of pages per book: </string>
+    <string name= "stat8">Most popular genre: </string>
+    <string name="stat9">Average product rating: </string>
+
+</resources>

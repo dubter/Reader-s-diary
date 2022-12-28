@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/new_book"
+        android:title="@string/new_book"
+        android:icon="@drawable/ic_menu_add"
+        app:showAsAction="ifRoom"
+        >
+    </item>
+    <item
+        android:id="@+id/ic_sort"
+        android:icon="@drawable/ic_menu_sort"
+        android:title="@string/list_sort"
+        app:showAsAction="ifRoom"
+        >
+    </item>
+    <item
+        android:id="@+id/ic_statistics"
+        android:icon="@drawable/ic_menu_sort"
+        android:title="@string/statistics_ic"
+        app:showAsAction="ifRoom"
+        >
+    </item>
+    <item
+        android:id="@+id/show_info"
+        android:icon="@drawable/ic_menu_information"
+        android:title="@string/show_info"
+        app:showAsAction="ifRoom"
+        >
+        </item>
+       <item
+        android:id="@+id/show_subtitle"
+        android:title="@string/show_subtitle"
+        app:showAsAction="ifRoom"
+        >
+    </item>
+
+</menu>

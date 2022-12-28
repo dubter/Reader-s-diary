@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Читательский дневник</string>
+    <string name="book_title_hint">Введите название произведения</string>
+    <string name="book_title_label">Название</string>
+    <string name="book_author_hint">Автор</string>
+    <string name="book_time_before">начало чтения</string>
+    <string name="book_time_after">окончание чтен.</string>
+    <string name="book_finish">прочитал</string>
+    <string name="book_now">читаю</string>
+    <string name="book_will">буду читать</string>
+    <string name="book_status">Статус:</string>
+    <string name="book_pagers">Колич. страниц:</string>
+    <string name="crime_details_label">Подробности</string>
+    <string-array name="book_genre">
+        <item>комедия</item>
+        <item>приключения</item>
+        <item>история</item>
+        <item>детектив</item>
+        <item>фантастика</item>
+        <item>религия</item>
+        <item>здоровье</item>
+        <item>любовный роман</item>
+        <item>драма</item>
+        <item>триллер</item>
+        <item>боевик</item>
+        <item>научная литература</item>
+        <item>биография(мемуары)</item>
+    </string-array>
+    <string name="no_name">Без названия</string>
+    <string name="data_picker_title">Выберите дату</string>
+    <string name="book_summary">Краткое содержание произведения:</string>
+    <string name="book_note">Примечания</string>
+    <string name="book_delete">Удалить</string>
+    <string name="no_authorName">Без автора</string>
+    <string name="reportWithoutName">Я %1$s произведение. Автор: %2$s. Количество страниц: %3$s. %4$s и я даю оценку этому произведению - %5$s из 5.</string>
+    <string name="report_text">Поделиться</string>
+    <string name="report">Я %1$s произведение \"%2$s\". Автор: %3$s. Количество страниц: %4$s. %5$s и я даю оценку этому произведению - %6$s из 5.</string>
+    <string name="report_subject">Сообщение о произведении</string>
+    <string name="send_report">Отправить репорт о книге</string>
+    <string name="show_subtitle">показать количество книг</string>
+    <string name="hide_subtitle">Скрыть количество книг</string>
+    <string name="new_book">Добавить книгу</string>
+    <string name="no_author">Не известно</string>
+    <string name="subtitle_format1">%1$d книг</string>
+    <string name="subtitle_format2">%1$d книга</string>
+    <string name="no_book">Список пустой</string>
+    <string name="close">Закрыть окна</string>
+    <string name="information">Данное приложение способно запоминать все произведения, которые вы прочитали, читаете или собираетесь читать в скором времени.
+        Для этого нажмите на + на панели инструментов. Далее перед вами откроется страница, в которой вы можете ввести данные о
+        произведении (название,автор,количество страниц и т. д.). Потом, когла вы закончите вводить информацию о ней, нажмите на
+        стрелку в верхнем левом углу на панели инструментов. Таким образов вы выйдите на гланую страницу, где находится список
+        всех добавленных вами произведений. Этот список можно отсортировать или посмотреть статистику вашего списка произведений.
+        Для этого нужно нажать на кнопку на панели инструментов.
+    Можно самостоятельно перемещать элементы списка. Для этого удерживайте палец на одном из них и ведите в нужное вам место. Также можно удалить элемент списка
+        - просто свайпните элемент либо вправо, либо влево. Есть возможность скролить элементы - свайпом вверх или вниз. А если вы находитесь
+        на странице определенного произведения, то для того, чтобы придти к другому произведению списка можно не выходить на главную страницу,
+    а просто свайпнуть вправо или влево. Таким образом придет в действие ViewPager.</string>
+    <string name="OK">OK</string>
+    <string name="message">Информация об этом приложении</string>
+    <string name="sort_data">дате начала чтения</string>
+    <string name="sort_title">названию</string>
+    <string name="sort_author">автору</string>
+    <string name="sort_pages">количеству страниц</string>
+    <string name="sort_rating">рейтингу</string>
+    <string name="sort_genre">жанру</string>
+    <string name="sort_status">статусу</string>
+    <string name="show_info">информация о приложении</string>
+    <string name="statistics_ic">показать статистику</string>
+    <string name="list_sort">отсортировать список</string>
+    <string name="sort_dataFinish">дате окончания чтения</string>
+    <string name="sort">Отсортировать список произведений по:</string>
+    <string name="statistics">Статистика:</string>
+    <string name="stat1">Количество произведений: </string>
+    <string name="stat2">Количество прочитанных произведений: </string>
+    <string name="stat3">Количество читаемых произведений: </string>
+    <string name="stat4">Количество произведений, которые будете читать: </string>
+    <string name="stat5">Самый популярный автор: </string>
+    <string name="stat6">Количество страниц прочитанно: </string>
+    <string name="stat7">Максимальное количество страниц одной книги: </string>
+    <string name="stat8">Самый популярнывй жанр: </string>
+    <string name="stat9">Средняя оценка произведению: </string>
+
+</resources>
